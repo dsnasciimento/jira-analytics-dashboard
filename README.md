@@ -61,7 +61,10 @@ cd jira-analytics-dashboard
 
 ####  Instale as dependências
 ```
-pip install streamlit requests python-dotenv
+pip install venv .venv
+```
+```
+pip install requirements.txt
 ```
 ### 4. Execução
 Para iniciar a aplicação, utilize o comando:
